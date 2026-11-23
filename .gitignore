@@ -1,0 +1,12 @@
+# MQL5 compiled binaries
+*.ex5
+*.ex4
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Editor files
+*.swp
+*.swo
